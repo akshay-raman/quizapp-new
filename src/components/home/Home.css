@@ -1,0 +1,8 @@
+/* .logout{
+    margin-left: 84%;
+} */
+
+.logout{
+    display: flex;
+    justify-content: flex-end;  
+}
