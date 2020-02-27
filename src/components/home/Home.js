@@ -82,6 +82,7 @@ class Home extends Component {
 
   addMoreQuestions = async (addQuestions) => {
     console.log("addMoreQuestions", addQuestions)
+    
 
     // [{
     //     'question': "Question 1",
